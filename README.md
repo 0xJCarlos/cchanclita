@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Juan Carlos!
-- 👀 I’m interested in Web Development and Data Science, i also love Fashion and Music!
-- 🌱 I’m currently learning Front-End Development and Data Analysis with Python
-- 💞️ I’m looking to collaborate on Open Source projects!
-- 📫 How to reach me: @cchanclita on Instagram and @reallychanclita in Twitter
+- 👀 I'm studying Information Technology at Universidad de Guadalajara
+- 🌱 Deeply interested in Data
+- 💞️ Looking forward to collaborate Open Source projects!
+- 📫 How to reach me: @cchanclita on Instagram and @0xchanclita in Twitter
 
 <!---
 cchanclita/cchanclita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
